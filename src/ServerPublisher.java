@@ -2,7 +2,7 @@ import impl.HelloWorldServerImpl;
 
 import javax.xml.ws.Endpoint;
 
-public class HelloWorldServerPublisher {
+public class ServerPublisher {
 
     public static void main(String[] args) {
 
